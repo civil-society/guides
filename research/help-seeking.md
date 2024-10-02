@@ -9,17 +9,21 @@ People generally want to help each other. Asking for help is a skill.
 - **Personal**: Why are you asking this person specifically for help? What expertise does the person have that you would benefit from? Reflecting on this often makes me think of different people/resources I have that might be better fitting for getting the help I need.
 - **Short**: Keep the request short.
 
-> Hi X, can I get your feedback on my introduction by the end of the week? Your expertise on X would be tremendously valuable to this section about X!
+> Hi X!
+>
+> Can I get your feedback on my introduction by the end of the week? Your expertise on X would be tremendously valuable to this section about X!
 > Specifically, I'm looking for:
 >
 > - Length: I need to cut 1 page from the paper, what would you recommend cutting?
 > - Logic: Can you follow my argument? If not, where did I lose you?
 > - Evidence: Does the work I cite provide enough support for my claims? If not, do you have suggestions on what work I should look into?
-
+>
 > Let me know if you're able to help with this!
+>
 > Thank you!
 
 Resources:
-Activism: https://indivisible.org/sites/default/files/resources/2020-05-29_organizing_training_indivisible_recruitment_guide.pdf
-Entrepreneurship: https://mathventurepartners.com/blog/2021/1/26/how-to-get-better-introductions/
-Research: Julie S. Hui, Darren Gergle, and Elizabeth M. Gerber. 2018. IntroAssist: A Tool to Support Writing Introductory Help Requests. In Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems (CHI '18). Association for Computing Machinery, New York, NY, USA, Paper 22, 1–13. https://doi.org/10.1145/3173574.3173596
+
+- [Activism](https://indivisible.org/sites/default/files/resources/2020-05-29_organizing_training_indivisible_recruitment_guide.pdf)
+- [Entrepreneurship](https://mathventurepartners.com/blog/2021/1/26/how-to-get-better-introductions/)
+- [Research](https://doi.org/10.1145/3173574.3173596)
