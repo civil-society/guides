@@ -4,4 +4,4 @@ This is a collection of guides of Civil Society.
 
 ## Research
 
-Here you can find [Research Guides](/research/help-seeking.md) research guides.
+Here you can find [Research Guides](/research/) research guides.
