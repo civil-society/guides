@@ -14,9 +14,9 @@ People generally want to help each other. Asking for help is a skill.
 > Can I get your feedback on my introduction by the end of the week? Your expertise on X would be tremendously valuable to this section about X!
 > Specifically, I'm looking for:
 >
-> - Length: I need to cut 1 page from the paper, what would you recommend cutting?
-> - Logic: Can you follow my argument? If not, where did I lose you?
-> - Evidence: Does the work I cite provide enough support for my claims? If not, do you have suggestions on what work I should look into?
+> - **Length**: I need to cut 1 page from the paper, what would you recommend cutting?
+> - **Logic**: Can you follow my argument? If not, where did I lose you?
+> - **Evidence**: Does the work I cite provide enough support for my claims? If not, do you have suggestions on what work I should look into?
 >
 > Let me know if you're able to help with this!
 >
